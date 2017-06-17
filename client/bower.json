@@ -1,0 +1,10 @@
+{
+  "name": "angular",
+  "homepage": "https://github.com/Shivani6993/iitm",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "shivani"
+  ],
+  "license": "MIT"
+}
